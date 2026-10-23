@@ -1,4 +1,4 @@
-DAA Mini Project
+DAA Mini Project 
 # Matrix Chain Multiplication Cost Optimizer
 
 A Python-based mini-project developed for the **Design and Analysis of Algorithms (DAA)** course.
